@@ -6,6 +6,7 @@ timeE = expo()
 ## I use a constant amount for the sky brightness in k-band as 2300 [No. photon/s/ micro meter/arcsec^2 ]  
 ## CCD dark current is fixed at 0.01 No./pixel/s
 ## CCD readout noise is fixed at  5 No./pixel, per observation
+##The code was adjusted for potential K-band observations by the HAWK-I instrument on the VLT.  
 ## *****************************************************************
 
 
