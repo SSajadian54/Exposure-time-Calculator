@@ -1,5 +1,4 @@
 from EXPc import  expo
-import numpy as np 
 timeE = expo() 
 
 ## ********************* Assumptions *******************************
